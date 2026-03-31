@@ -29,6 +29,7 @@ The goal is to provide a **simple, efficient, and practical IDS** for automotive
 
 ![Architecture](images/architecture.png)
 
+
 ## ⚙️ Implementation
 
 - CAN traffic simulated using ICSim
