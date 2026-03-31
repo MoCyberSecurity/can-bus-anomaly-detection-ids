@@ -27,7 +27,7 @@ The goal is to provide a **simple, efficient, and practical IDS** for automotive
 ---
 ## 🧱 System Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](architecture.png)
 
 
 ## ⚙️ Implementation
