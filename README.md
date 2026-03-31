@@ -25,6 +25,9 @@ This project proposes a lightweight anomaly detection approach based on:
 The goal is to provide a **simple, efficient, and practical IDS** for automotive environments.
 
 ---
+## 🧱 System Architecture
+
+![Architecture](images/architecture.png)
 
 ## ⚙️ Implementation
 
