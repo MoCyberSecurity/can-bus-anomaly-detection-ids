@@ -1,6 +1,19 @@
-# can-bus-anomaly-detection-ids
-Lightweight anomaly detection for CAN bus intrusion detection, focusing on signal behaviour analysis and practical deployment in resource-constrained environments.
 
+# CAN Bus Anomaly Detection IDS
+
+Lightweight intrusion detection system (IDS) for automotive CAN bus networks, designed to identify malicious activity such as replay and denial-of-service (DoS) attacks in resource-constrained environments.
+
+## Why this matters
+The Controller Area Network (CAN bus) is widely used in modern vehicles but lacks built-in security features such as authentication and encryption. This makes it vulnerable to message injection, replay, and disruption attacks that can impact vehicle behaviour.
+
+This project demonstrates how anomaly detection techniques can be applied to CAN traffic to identify abnormal signal patterns and potential attacks.
+
+## What this project shows
+- Simulation of CAN traffic using ICSim  
+- Implementation of replay and DoS attack scenarios  
+- Lightweight anomaly detection using signal behaviour (standard deviation)  
+- Comparison with machine learning models (Random Forest, Decision Tree, MLP)  
+- High detection performance while remaining suitable for constrained systems  
 ---
 
 ## 🚗 Problem
