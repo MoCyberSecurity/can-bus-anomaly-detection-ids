@@ -52,6 +52,7 @@ The goal is to provide a **simple, efficient, and practical IDS** for automotive
 Key observation:
 Replay attacks remain more difficult to detect compared to DoS attacks.
 
+![Detection Results](images/results.png)
 ---
 
 ## 🧠 Key Insight
@@ -64,3 +65,4 @@ This highlights an important trade-off between detection accuracy and real-world
 
 ## Documentation
 - [Project Summary](docs/summary.md)
+
