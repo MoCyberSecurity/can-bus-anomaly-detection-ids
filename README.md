@@ -62,15 +62,5 @@ This highlights an important trade-off between detection accuracy and real-world
 
 ---
 
-## 📎 Project Structure (coming soon)
-
-- Source code
-- Dataset samples
-- Results and visualisations
-- Full thesis document
-
----
-
-## 📄 Full Thesis
-
-(coming soon)
+## Documentation
+- [Project Summary](docs/summary.md)
